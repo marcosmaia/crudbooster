@@ -91,7 +91,7 @@ return [
     'button_close'           => 'Fechar', 
     'button_submit'          => 'Enviar', 
     'button_logout'          => 'Sair', 
-    'button_sign_in'         => 'Cadastrar', 
+    'button_sign_in'         => 'Iniciar Sessão', 
     'button_selected_action' => 'Ações em massa', 
     'button_download_file'   => 'Download', 
     'button_reset'           => 'Reset',
